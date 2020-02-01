@@ -8,4 +8,6 @@ SOURCES += \
 
 HEADERS += \
     codeid1.h \
+    codeid2.h \
+    codeid3.h \
     commonheader.h
